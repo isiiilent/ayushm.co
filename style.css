@@ -1,11 +1,14 @@
 body{
-	padding: 25px;
-	background-color: white;
-	color: black;
-	font-size: 25px
+    margin: 0%;
+    background-color: black;
 }
-
-.dark-mode{
-	background-color: black;
-	color: white;
+#homepage{
+    margin-top: 2.3vw;
+    margin-bottom: 2.3vw;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    height: 42vw;
+    width: 96vw;
+    background-color: rgb(255, 212, 212);
+    border-radius: 2vw;
 }
